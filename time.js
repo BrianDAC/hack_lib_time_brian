@@ -1,4 +1,4 @@
-function hackPmto24(hora) {
+function hackAmPmTo24(hora) {
 var horaPm = '';
 var sumaPm;
 var minPm= '';
@@ -39,7 +39,7 @@ var minEnterosAm;
 
 
 
-function hack24toAm(hora){
+function hack24ToAmPm(hora){
 var horas='';
 var min= '';
 var minEnte
